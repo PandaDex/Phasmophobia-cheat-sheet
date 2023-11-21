@@ -10,9 +10,13 @@
   **NA KLAWIATURACH / DRZWIACH OD CELI:** 5 palców
 
 - ŚWIATŁA:
-  > Moroi* **nie** zapali światła <br>
-  > Moroi* ma szanse na natychmiastowe zgaszenie światła po zapaleniu go przez gracza **(bez eventu)**
-
+  > Mare* **nie** zapali światła <br>
+  > Mare* ma szanse na natychmiastowe zgaszenie światła po zapaleniu go przez gracza **(bez eventu)** <br>
+  > Mare* może huntować przy: <br>
+  **60%** Sanity gdy światła sa zgaszone <br>
+  **40%** Sanity gdy światła sa zapalone
+  
+   
 - KORKI:
   > Jinn* **nie** może wywalić prądu
 
@@ -25,3 +29,6 @@
 - KROKI: 
   > Revenant* jest **powolny** gdy nie widzi gracza i **bardzo szybki** gdy widzi gracza <br>
   > Hantu* jest **powolny** w ciepłych pomieszczeniach i **szybki** w zimnych 
+
+- SANITY:
+  > Demon* może huntowac przy 70% sanity 
