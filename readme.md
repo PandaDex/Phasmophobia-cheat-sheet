@@ -31,4 +31,7 @@
   > Hantu* jest **powolny** w ciepłych pomieszczeniach i **szybki** w zimnych 
 
 - SANITY:
-  > Demon* może huntowac przy 70% sanity 
+  > Demon* może huntowac przy 70% sanity
+  > Mare* może huntować przy: <br>
+  **60%** Sanity gdy światła sa zgaszone <br>
+  **40%** Sanity gdy światła sa zapalone
