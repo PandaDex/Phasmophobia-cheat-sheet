@@ -21,7 +21,9 @@
   > Jinn* **nie** może wywalić prądu
 
 - KULKA ODDECHU:
-  > Oni* **nie** może wywołać kulki oddechu poruszającej się w stronę gracza jako event
+  > Oni* **nie** może wywołać kulki oddechu poruszającej się w stronę gracza jako event <br>
+  ![image](https://github.com/PandaDex/Phasmophobia-cheat-sheet/assets/78349074/04a78095-5128-429a-b339-2aca3a56fa64) <br>
+
 
 - ZDJĘCIE:
   > Phantom* **nie** będzie widoczny na zdjęciu
